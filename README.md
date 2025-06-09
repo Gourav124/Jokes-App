@@ -18,9 +18,9 @@ A fun and lightweight Android app built using **Kotlin** and **Retrofit** that f
 - **ViewModel**
 
 ## 📸Screenshots 
-![jokeapp](https://github.com/user-attachments/assets/648cf28b-32d5-431f-b32e-3507dc526e7c)
+![Screenshot 2025-06-09 144601](https://github.com/user-attachments/assets/76542d75-ec2b-4ba9-9e31-326438208716)
 
 
-## 🔌 API Used
+## 🔌 API Used!
 
 -  https://publicapi.dev/official-joke-api
